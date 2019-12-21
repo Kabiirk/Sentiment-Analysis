@@ -1,5 +1,5 @@
 # Sentiment & Emotion Analysis
-The main aim of this project is to extract data from the e-commerce websites such as Amazon, Flipkart etc.
+The main aim of this project is to extract data from the e-commerce websites such as Amazon, Flipkart etc.and use that data to generate useful business insights for better product development.
 
 Sentiment Analysis
 ------
