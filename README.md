@@ -2,7 +2,7 @@
 The main aim of this project is to extract data from the e-commerce websites such as Amazon, Flipkart etc.
 
 Sentiment Analysis
-======
+------
 Let's Take the following example
 ```
 "This is an example of good documentation."
